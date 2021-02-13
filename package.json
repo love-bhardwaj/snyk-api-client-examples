@@ -1,0 +1,20 @@
+{
+  "name": "snyk-api-client-examples",
+  "version": "0.0.0",
+  "description": "Example for using NPM package snyk-api-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snyk",
+    "api",
+    "helper",
+    "examples"
+  ],
+  "author": "Love Bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "snyk-api-client": "0.0.1-0"
+  }
+}
