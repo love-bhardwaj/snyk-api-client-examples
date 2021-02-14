@@ -9,3 +9,5 @@ async function getUserOrgs() {
     console.error(error);
   }
 }
+
+getUserOrgs();
